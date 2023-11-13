@@ -1,6 +1,8 @@
 # Confluence Web Book to PDF Converter
 
-This tool allows you to generate a PDF from a Confluence web book. Follow the steps below to use the converter.
+This tool allows you to generate a PDF from a Confluence web book. 
+
+Follow the steps below to use the converter.
 
 ## Prerequisites
 
