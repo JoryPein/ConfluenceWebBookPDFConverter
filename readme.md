@@ -1,8 +1,6 @@
 # Confluence Web Book to PDF Converter
 
-This tool allows you to generate a PDF from a Confluence web book. 
-
-Follow the steps below to use the converter.
+📚 Convert your Confluence web books into PDF effortlessly with this handy tool.
 
 ## Prerequisites
 
@@ -10,7 +8,7 @@ Make sure you have Python 3.7 installed on your system. If not, you can download
 
 ## Installation
 
-Use the following commands to install the required dependencies:
+🚀 Use the following commands to install the required dependencies:
 
 ```bash
 python3.7 -m pip install -r requirements.txt
@@ -30,4 +28,4 @@ python3.7 down-link.py
 python3.7 build-pdf.py
 ```
 
-The generated PDF will be available in the output directory.
+📄 The generated PDF will be available in the output directory. Happy converting!
